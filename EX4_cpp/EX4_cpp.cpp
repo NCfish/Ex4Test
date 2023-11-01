@@ -5,7 +5,7 @@
 
 int main()
 {
-    int newi=0;
+    int newi_main=0;
     std::cout << i;
 }
 
